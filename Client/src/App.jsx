@@ -146,7 +146,7 @@ function App() {
                   <p className="card-text">Name : {val.name}</p>
                   <p className="card-text">Age : {val.age}</p>
                   <p className="card-text">Country : {val.country}</p>
-                  <p className="card-text">Phone Number : {val.phone}</p>
+                  <p className="card-text">Phone Number : {val.Phonenumber}</p>
                   <div className="d-flex">
                     <input
                       type="number"
